@@ -8,7 +8,7 @@ Project Timeline
 2nd Submission: May 7
 3rd Submission: June 11
 Tools & Technology
-Languages: JavaScript, HTML, CSS
+Languages: Python, JavaScript, HTML, CSS
 Google API: Client library for authentication and comment retrieval.
 Application Structure
 Features:
